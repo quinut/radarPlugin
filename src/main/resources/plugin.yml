@@ -1,0 +1,9 @@
+name: radar
+version: '1.0-SNAPSHOT'
+main: me.quinut.radar.Radar
+api-version: '1.21'
+commands:
+  gettracker:
+    description: 모든 트래커를 얻습니다.
+    usage: /gettracker
+
